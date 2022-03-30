@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/example_pacakge_AUTOGRADER.egg-info/PKG-INFO
+src/example_pacakge_AUTOGRADER.egg-info/SOURCES.txt
+src/example_pacakge_AUTOGRADER.egg-info/dependency_links.txt
+src/example_pacakge_AUTOGRADER.egg-info/top_level.txt
+src/example_package/__init__.py
+src/example_package/example.py

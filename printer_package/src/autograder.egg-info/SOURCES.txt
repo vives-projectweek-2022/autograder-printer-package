@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/autograder.egg-info/PKG-INFO
+src/autograder.egg-info/SOURCES.txt
+src/autograder.egg-info/dependency_links.txt
+src/autograder.egg-info/top_level.txt
