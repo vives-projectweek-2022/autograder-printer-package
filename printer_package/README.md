@@ -25,7 +25,7 @@ dmesg | grep "tty"
 
 Use the correct ACM port in the constructor (obtained from the command above).
 
-Second, text can be printed. This is done simply by calling the 'print_text()' function on the Printer object, and entering a string as an argument in the function. This specified string will be printed. This is done by writing the string to the nucleo, which will read it and send that to the printer (further specifications on the printer library can be found on github (printer-repo)[https://github.com/vives-projectweek-2022/autograder-printer-library]).
+Second, text can be printed. This is done simply by calling the 'print_text()' function on the Printer object, and entering a string as an argument in the function. This specified string will be printed. This is done by writing the string to the nucleo, which will read it and send that to the printer (further specifications on the printer library can be found on github [printer-repo](https://github.com/vives-projectweek-2022/autograder-printer-library)).
 
 In this case, the data written to the Nucleo will be sent to the printer, and written back to the Pi (this gives a digital view of what has been printed, but this can be changed if desired).
 
