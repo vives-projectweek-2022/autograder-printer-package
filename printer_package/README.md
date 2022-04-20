@@ -4,6 +4,11 @@ This package creates an easy way to send strings of text to the Adafruit thermal
 
 This package works on Linux and python 3.6 or higher is required.
 
+Download the package by entering the following command: 
+```bash
+python3 -m pip install autograder-vives
+```
+
 To use the package, run python (`python3`) and enter the following commands:
 
 ```bash

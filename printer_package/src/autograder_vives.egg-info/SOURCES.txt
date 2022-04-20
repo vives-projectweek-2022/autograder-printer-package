@@ -7,4 +7,4 @@ src/autograder_vives.egg-info/SOURCES.txt
 src/autograder_vives.egg-info/dependency_links.txt
 src/autograder_vives.egg-info/top_level.txt
 src/printer/__init__.py
-src/printer/print.py
+src/printer/printer.py
