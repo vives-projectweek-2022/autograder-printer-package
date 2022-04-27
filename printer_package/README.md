@@ -12,8 +12,8 @@ python3 -m pip install autograder-vives
 To use the package, run python (`python3`) and enter the following commands:
 
 ```bash
-from printer import print
-my_printer = print.Printer(port)
+from printer import printer
+my_printer = printer.Printer(port)
 ```
 
 The 'my_printer' variable name can be changed to any variable name that you want to name your own printer instance. The port in the constructor has to be the correct port to which the Nucleo is connected to the Pi. Only the specific port should be entered, the directory and 'tty' is already present in the code (in this case: "/dev/tty")
